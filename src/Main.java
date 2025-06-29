@@ -8,6 +8,7 @@ public class Main {
 
         Vehicle vehicle = new Vehicle();
         vehicle.setColor("red");
+
         System.out.println(vehicle.getColor());
     }
 }
